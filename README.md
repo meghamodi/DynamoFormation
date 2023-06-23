@@ -7,7 +7,7 @@ The steps required to create DynamoDB tables:-
 
 **- Create Stack**
 
-    click on create stack(with new resources) -> Template is ready-> upload the template file(JSON or yaml).
+click on create stack(with new resources) -> Template is ready-> upload the template file(JSON or yaml).
 
 
 **- Specify Stack details**
